@@ -1,6 +1,7 @@
 build/
 .build/
 data/
+.vscode/
 data/networks/
 data/images/test
 logs/

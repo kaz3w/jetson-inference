@@ -30,7 +30,11 @@
 #include "homographyNet.h"
 #include "mat33.h"
 
+#include "../myDefaultVideoDevice.h"
+#define DEFAULT_CAMERA MY_DEFAULT_VIDEO_DEVICE	// -1 for onboard camera, or change to index of /dev/video V4L2 camera (>=0)	
+
 #include <signal.h>
+>>>>>>> c8a0392b1b49d9892aa4ec0556eb058f5d2e7145:examples/experimental/homography-camera/homography-camera.cpp
 
 
 bool signal_recieved = false;
