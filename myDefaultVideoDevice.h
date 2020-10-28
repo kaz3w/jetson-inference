@@ -1,0 +1,10 @@
+#ifndef __DEFAULT_VIDEO_DEVICE_H__
+#define __DEFAULT_VIDEO_DEVICE_H__
+
+
+#define	MY_DEFAULT_VIDEO_DEVICE	(0)
+
+
+
+
+#endif //!__DEFAULT_VIDEO_DEVICE_H__
