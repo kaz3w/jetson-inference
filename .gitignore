@@ -1,5 +1,9 @@
-build
-.build
+build/
+.build/
 data/
 .vscode/
-
+data/networks/
+data/images/test
+logs/
+*.pyc
+*.tar.gz
